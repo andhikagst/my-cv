@@ -16,10 +16,6 @@ body {
     font-family: 'Source Sans 3';
 }
 
-div {
-    border: 1px solid red;
-}
-
 .navbar {
     background-color: rgba(255, 251, 244, 0.8);
     display: flex;
